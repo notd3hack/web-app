@@ -2,7 +2,15 @@
 
 /sitemap.xml
 
+whatweb "domain.com" ->> Get Info Technologies
+
+theHarvester ->> deep info harvesting
+
+Google Dork and WaybackUrls
+
 DNS Records ->> ip addr
+
+Passive Crawling Using Burpsuite
 
 SAST ->> Static Analysis
 
