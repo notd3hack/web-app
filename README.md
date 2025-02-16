@@ -1,45 +1,40 @@
 
 # Web Application Testing Automation
 
-This is toolsef for junior WebAppSec's
-## Roadmap
+This is toolset for junior **WebAppSec's**
+## You Must Know
 
-- /robots.txt
-- /sitemap.xml
+- read /robots.txt
+- read /sitemap.xml
 - DNS Records
 - Static Application Security Testing (SAST)
 - Input valid test (leads to XSS and SQLi)
 - Query and Param enumeration (leads to XSS and SQLi and can go further)
-- Subdomain Enumeration:
+- Subdomain Enumeration with:
 
-      Subfinder ------>> Subdomain Enum
-      Sublist3r ------>> Subdomain Enum
-      httpx ---------->> HTTP Status Client
-      Nmap ----------->> Port & Vuln Scan
+      Subfinder by ProjectDiscovery
+      Sublist3r
+      httpx by ProjectDiscovery
 
 
 - Directory Discovery
 
-      dirb ----------->> Directory Discovery
-      gobuster ------->> Directory Discovery
-      dirsearch ------>> Directory Discovery
+      dirb 
+      gobuster
+      dirsearch
 
 
 - Vulnerability Assessment and Exploitation
 
-      Nessus --------->> Vuln Scan
-      Nikto ---------->> Vuln Scan
-      nuclei  -------->> Vuln Scan
-      OWASP ZAP ------>> Vuln Scan
-      BurpSuiteCom --->> Intercept
-      SQLMap --------->> SQL Injection <-Exploitation
-
-- Other type Tools:
-
-      katana --------->> Web Crawl (Parameter Scanner)
-      xss_vibes ------>> XSS Validator <-Exploitation
-      wfuzz ---------->> Fuzzing
-      RustScan ------->> Port Scanner
+      Nessus
+      Nikto
+      nuclei by ProjectDiscovery
+      OWASP ZAP
+      BurpSuite Community Edition
+      SQLMap
+      katana by ProjectDiscovery
+      xss_vibes by faiyazahmad07
+      wfuzz
 
 - Licensed Automated Tools:
 
