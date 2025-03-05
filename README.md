@@ -26,6 +26,7 @@ This is toolset for junior **WebAppSec's**
 
 - Vulnerability Assessment and Exploitation
 
+      NMap
       Nessus
       Nikto
       nuclei by ProjectDiscovery
