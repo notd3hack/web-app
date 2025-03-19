@@ -25,6 +25,8 @@ passive DNS Recon
  - Spider with OWASP ZAP
  - NMAP
  - Metasploit 
+
     search auxiliary/scanner/http/http_version
-	set RHOST target IP 
+    set RHOST target IP 
+    
  - dirb ip_addr /usr/share/
