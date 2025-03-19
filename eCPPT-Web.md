@@ -13,9 +13,9 @@ INE eCPPTv3
  - whois
  - https://whois.domaintools.com/
  - [Technology Detect with NetCraft](https://www.netcraft.com/)
-passive DNS Recon
-	dnsrecon -d domain.az
-	https://dnsdumpster.com
+ - passive DNS Recon
+ - 	dnsrecon -d domain.az
+ - 	https://dnsdumpster.com
  - robots.txt
  - sitemap.xml
  - "wappalyzer" plugin
