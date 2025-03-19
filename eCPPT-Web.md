@@ -16,18 +16,23 @@ INE eCPPTv3
 passive DNS Recon
 	dnsrecon -d domain.az
 	https://dnsdumpster.com
-- robots.txt
+ - robots.txt
  - sitemap.xml
- - wappalyzer plugin
- - hatweb domain.az
- - builtwith plugin
- - Web Crawling with BurpSuite
- - Spider with OWASP ZAP
+ - "wappalyzer" plugin
+ - whatweb domain.az
+ - "builtwith" plugin
+ - Web Crawling with "BurpSuite"
+ - Spider with "OWASP ZAP"
  - NMAP
- - Metasploit: 
+ - Metasploit 
 
-    search auxiliary/scanner/http/http_version
-
-    set RHOST target IP 
+```bash
+  	search auxiliary/scanner/http/http_version
+	set RHOST target IP 
+```
     
  - dirb ip_addr /usr/share/
+
+ ```bash
+  	dirb ip_addr /usr/share/metasploit-framework/data/wordlists/directory.txt
+```
