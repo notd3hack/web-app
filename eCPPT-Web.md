@@ -24,9 +24,10 @@ passive DNS Recon
  - Web Crawling with BurpSuite
  - Spider with OWASP ZAP
  - NMAP
- - Metasploit 
+ - Metasploit: 
 
     search auxiliary/scanner/http/http_version
+
     set RHOST target IP 
     
  - dirb ip_addr /usr/share/
