@@ -31,7 +31,7 @@ passive DNS Recon
 	set RHOST target IP 
 ```
     
- - dirb ip_addr /usr/share/
+ - dirb
 
  ```bash
   	dirb ip_addr /usr/share/metasploit-framework/data/wordlists/directory.txt
