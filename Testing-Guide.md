@@ -1,4 +1,6 @@
 # Web Application Penetration Testing Checklist
+Created January 2024
+Refined May 2026
 
 ## PRE-ENGAGEMENT
 - [ ] **Define Scope & Rules of Engagement**

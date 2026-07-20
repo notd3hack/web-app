@@ -36,3 +36,5 @@ INE eCPPTv3
  ```bash
   	dirb ip_addr /usr/share/metasploit-framework/data/wordlists/directory.txt
 ```
+
+I never used this one as a main Guidance. Go to Testing-Guide.md for better result

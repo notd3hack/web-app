@@ -1,3 +1,6 @@
+Cybersecurity Syllabus Self-Study (3 hours a day for no burnout)
+
+
 ### Information Security Block (Theory)
 ```
 •   CIA Triad (Confidentiality, Integrity, Availability)
@@ -59,3 +62,6 @@
 •   Manual detection: XSS, SQLi, file uploads, LFI/RFI, path traversal, OS command injection
 •   Web Application Firewalls basics
 ```
+
+
+Somebody help me to design good looking MD files.

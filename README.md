@@ -1,7 +1,7 @@
 
 # Web Application Testing Automation
 
-This is toolset for junior **WebAppSec's**
+This is toolset for Entry Level **WebAppSec's** have to know
 ## You Must Know
 
 - read /robots.txt
